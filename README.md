@@ -49,11 +49,10 @@ ID: Customer ID
 
 ## 📁 How to use this project
 
-How to Use This Project
-The code for the project can be found in the attached load_uptake_predictor_model.ipynb
+  - The code for the project can be found in the attached load_uptake_predictor_model.ipynb
 
-The dataset used in the project is in the attached Loan_Modelling.csv
+  - The dataset used in the project is in the attached Loan_Modelling.csv
 
-Upload the file Loan_Modelling.csv to your own google drive.  Place it under a folder /content/drive/MyDrive/AIML/foodhub_order.csv or the folder of your choise.
-Edit the notebook, modify the below code to map the file as input df = pd.read_csv('/content/drive/MyDrive/AIML/foodhub_order.csv')
+  - Upload the file Loan_Modelling.csv to your own google drive.  Place it under a folder /content/drive/MyDrive/AIML/foodhub_order.csv or the folder of your choise.
+  - Edit the notebook, modify the below code to map the file as input df = pd.read_csv('/content/drive/MyDrive/AIML/foodhub_order.csv')
 
